@@ -15,7 +15,7 @@ let mainConfig = {
     repo: "L1nklink.github.io",
     pushBranch: "main",
     email: "327360102@qq.com",
-    filterUsers: []
+    filterUsers: ["L1nklink"]
   },
 
   title: "Link's Blog",
