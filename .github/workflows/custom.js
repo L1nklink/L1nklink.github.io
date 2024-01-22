@@ -39,8 +39,8 @@ let mainConfig = {
         link: "https://github.com/L1nklink"
       },
       {
-        name: "CV",
-        link: "/cv.html"
+        name: "Resume",
+        link: "/cv"
       }
     ],
     headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
