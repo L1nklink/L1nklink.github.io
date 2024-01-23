@@ -70,7 +70,7 @@ let mainConfig = {
       {
         rel: "icon",
         type: "image/png",
-        href: "favicons/favicon-32x32.png"
+        href: "favicons/icon.png"
       }
     ]
   ]
