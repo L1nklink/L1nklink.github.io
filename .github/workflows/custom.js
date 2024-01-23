@@ -24,8 +24,8 @@ let mainConfig = {
   base: "/",
 
   slogan: {
-    main: "有逻辑的灵魂，",
-    sub: "造就有温度的编码。"
+    main: "Link players and games.",
+    // sub: "造就有温度的编码。"
   },
 
   themeConfig: {
@@ -43,7 +43,7 @@ let mainConfig = {
         link: "/cv"
       }
     ],
-    headTitle: ["暮春早夏的月亮", "原是情人的月亮，不比秋冬是诗人的月亮"],
+    headTitle: ["Done is better than perfect."],
     friendLinks: [
           {
               name: "baidu",
