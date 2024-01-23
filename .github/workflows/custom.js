@@ -25,7 +25,7 @@ let mainConfig = {
 
   slogan: {
     main: "Link players and games.",
-    sub: "造就有温度的编码。"
+    sub: "Greatness Awaits"
   },
 
   themeConfig: {
@@ -43,7 +43,7 @@ let mainConfig = {
         link: "/cv"
       }
     ],
-    headTitle: ["Done is better than perfect.", "Greatness Awaits."],
+    headTitle: ["不知乘月几人归,", "落月摇情满江树."],
     friendLinks: [
           {
               name: "baidu",
