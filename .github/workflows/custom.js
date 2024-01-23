@@ -55,11 +55,11 @@ let mainConfig = {
           //   }
     ],
     extraFooters: [
-      {
-        title: "",
-        text: "@ 蜀 ICP 备 19000509 号 - 1",
-        link: "https://beian.miit.gov.cn/"
-      }
+      // {
+      //   title: "",
+      //   text: "@ 蜀 ICP 备 19000509 号 - 1",
+      //   link: "https://beian.miit.gov.cn/"
+      // }
     ],
     pageCount: true
   },
@@ -70,7 +70,7 @@ let mainConfig = {
       {
         rel: "icon",
         type: "image/png",
-        href: "favicons/icon.png"
+        href: "https://raw.githubusercontent.com/L1nklink/L1nklink.github.io/master/.github/workflows/facvicons/icon.png"
       }
     ]
   ]
