@@ -3,36 +3,36 @@ layout: ResumeLayout
 
 content:
   header:
-    author: 张义飞
+    author: 叶泽南
     contact:
-    - 邮箱：flynn.zhang@foxmail.com
-    - 主页：blog.simplenaive.cn
-    - Github：github.com/Yidadaa
+    - 邮箱：znye1996@gmail.com
+    - 主页：L1nklink.github.io
+    - Github：github.com/L1nklink
     interest: Just Code It
-    dob: 1997/01/20
-    city: Chengdu, China
+    dob: 1996/08/29
+    city: Shanghai, China
   education:
     name: 教育背景
     content:
-    - degree: 硕士
-      school: 电子科技大学
-      major: 计算机科学与工程学院，计算机科学专业
-      time: 2018.09 - 2021.06
+    # - degree: 硕士
+    #   school: 电子科技大学
+    #   major: 计算机科学与工程学院，计算机科学专业
+    #   time: 2018.09 - 2021.06
     - degree: 学士
-      school: 电子科技大学
-      major: 英才实验学院，计算机科学专业
-      time: 2014.09 - 2018.06
-  honor:
-    name: 荣誉奖项
-    content:
-    - name: 研究生二等学业奖学金
-      time: '2019.10'
-    - name: OPPO AI 挑战赛人像分割任务 决赛优秀奖
-      time: '2019.04'
-    - name: 研究生一等学业奖学金
-      time: '2018.10'
-    - name: 美国大学生数学建模竞赛 H 奖
-      time: '2017.02'
+      school: 中国科学技术大学
+      major: 电子科学与技术
+      time: 2014.08 - 2018.06
+#   honor:
+#     name: 荣誉奖项
+#     content:
+#     - name: 研究生二等学业奖学金
+#       time: '2019.10'
+#     - name: OPPO AI 挑战赛人像分割任务 决赛优秀奖
+    #   time: '2019.04'
+    # - name: 研究生一等学业奖学金
+    #   time: '2018.10'
+    # - name: 美国大学生数学建模竞赛 H 奖
+    #   time: '2017.02'
   experience:
     name: 工作经历
     content:
@@ -43,17 +43,17 @@ content:
         CI/CD、报警管理、服务治理、监控等功能。
       - 负责猿辅导基础架构的基建能力建设，为公司内部各个业务项目提供静态文档站的技术方案支持，开发基于Gitlab API 的文档系统。负责猿辅导基础架构的基建能力建设，为公司内部各个业务项目提供静态文档站的技术方案支持，开发基于
         Gitlab API 的文档系统。
-    - name: 软件开发实习生 @ 亚马逊北京
-      time: 2020.07 - 2020.11
-      content:
-      - 负责移动端基础架构部存储相关的功能调研、设计和开发，基于微信开源的 MMKV 框架重构亚马逊购物客户端的本地存储机制。
-    - name: 算法开发实习生 @ 腾讯深圳 AI Lab Robotics X 实验室
-      time: 2019.11 - 2020.06
-      content:
-      - 负责设计并开发基于三维重建算法的虚拟现实同步展示系统，使用三维重建算法对现实世界进行实时重建并在 Steam VR 中高效渲染。优化 Elastic
-        Fusion 三维重建算法，编写 C++ 版本的 Kinect 相机驱动，同时负责 VoxBlox 三维重建算法与 ORB-SLAM 系统对接，使用
-        C++ 编写高性能 ROS 数据传输接口。
-      - 负责优化 GPU 到 CPU 之间的数据同步性能，开发实时点云数据流传输以及渲染算法，配合实时动态标定，实现虚拟环境下的机器臂控制操作，并对其实时性、丢包率等性能设计实验进行验证。
+    # - name: 软件开发实习生 @ 亚马逊北京
+    #   time: 2020.07 - 2020.11
+    #   content:
+    #   - 负责移动端基础架构部存储相关的功能调研、设计和开发，基于微信开源的 MMKV 框架重构亚马逊购物客户端的本地存储机制。
+    #- name: 算法开发实习生 @ 腾讯深圳 AI Lab Robotics X 实验室
+    #  time: 2019.11 - 2020.06
+    #  content:
+    #  - 负责设计并开发基于三维重建算法的虚拟现实同步展示系统，使用三维重建算法对现实世界进行实时重建并在 Steam VR 中高效渲染。优化 Elastic
+    #    Fusion 三维重建算法，编写 C++ 版本的 Kinect 相机驱动，同时负责 VoxBlox 三维重建算法与 ORB-SLAM 系统对接，使用
+    #    C++ 编写高性能 ROS 数据传输接口。
+    #  - 负责优化 GPU 到 CPU 之间的数据同步性能，开发实时点云数据流传输以及渲染算法，配合实时动态标定，实现虚拟环境下的机器臂控制操作，并对其实时性、丢包率等性能设计实验进行验证。
     - name: '前端开发工程师（在校远程兼职）@ 尘微科技 '
       time: 2017.12 - 2019.03
       content:
