@@ -70,7 +70,7 @@ let mainConfig = {
       {
         rel: "icon",
         type: "image/png",
-        href: "https://raw.githubusercontent.com/L1nklink/L1nklink.github.io/master/.github/workflows/facvicons/icon.png"
+        href: "https://raw.githubusercontent.com/L1nklink/L1nklink.github.io/master/.github/workflows/img/favicon-32x32.png"
       }
     ]
   ]
