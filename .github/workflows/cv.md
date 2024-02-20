@@ -6,7 +6,7 @@ content:
     author: 叶泽南
     contact:
     - 邮箱：znye1996@gmail.com
-    - 主页：L1nklink.github.io
+    # - 主页：L1nklink.github.io
     # - Github：github.com/L1nklink
     # interest: Just Code It
     dob: 1996/08/29
