@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白露葱的游戏厅</title>
+  
+  <subtitle>Greatness Awaits.</subtitle>
+  <link href="https://l1nklink.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://l1nklink.github.io/"/>
+  <updated>2024-04-01T03:06:14.625Z</updated>
+  <id>https://l1nklink.github.io/</id>
+  
+  <author>
+    <name>zn.ye</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>游戏设计中的自我赋能和非自我赋能</title>
+    <link href="https://l1nklink.github.io/2024/03/29/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E4%B8%AD%E7%9A%84%E8%87%AA%E6%88%91%E8%B5%8B%E8%83%BD%E5%92%8C%E9%9D%9E%E8%87%AA%E6%88%91%E8%B5%8B%E8%83%BD/"/>
+    <id>https://l1nklink.github.io/2024/03/29/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E4%B8%AD%E7%9A%84%E8%87%AA%E6%88%91%E8%B5%8B%E8%83%BD%E5%92%8C%E9%9D%9E%E8%87%AA%E6%88%91%E8%B5%8B%E8%83%BD/</id>
+    <published>2024-03-29T06:02:10.000Z</published>
+    <updated>2024-04-01T03:06:14.625Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;很多人都有这样的感觉——认为某些游戏属于那种“虚拟角色的养成程度对游戏体验有决定性影响”的类型；某些属于“玩家技术水平对游戏体验有决定性影响”的类型，当然还有一部分游戏是“需要玩家在养成上达到一个门槛，在此基础上去谈技术水平的影响才有意义”。&lt;/p</summary>
+        
+      
+    
+    
+    
+    <category term="GameDev" scheme="https://l1nklink.github.io/categories/GameDev/"/>
+    
+    
+    <category term="Game Design" scheme="https://l1nklink.github.io/tags/Game-Design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://l1nklink.github.io/2024/03/28/hello-world/"/>
+    <id>https://l1nklink.github.io/2024/03/28/hello-world/</id>
+    <published>2024-03-28T04:02:10.000Z</published>
+    <updated>2024-04-01T03:12:13.745Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
